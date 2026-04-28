@@ -18,5 +18,4 @@ Analysis of COVID-19 pandemic trends in India, focusing on confirmed cases and m
 * covid_project_queries.sql (SQL Code)
 * Covid project.pbix (Power BI Dashboard)
 
-<img width="1162" height="655" alt="Covid_project" src="https://github.com/user-attachments/assets/480d361b-72be-43e5-a6a7-0c4122b33167" />
 
